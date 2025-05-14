@@ -1,0 +1,3 @@
+echo "# University Course Registration System" > README.md
+echo "print('Registering courses...')" > course_registration.py
+echo "print('Student profile system')" > student_profile.py
